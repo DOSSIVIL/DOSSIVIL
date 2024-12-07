@@ -46,8 +46,8 @@ J'aime travailler en équipe et participer à des projets qui poussent les limit
 
 N'hésitez pas à me joindre pour échanger, collaborer, ou simplement discuter de technologies ! 
 
-- **LinkedIn** : [linkedin](www.linkedin.com/in/rivoire-dossivil-896427320)
-- **Email** : [Email](dossivil@gmail.com)
+- **LinkedIn** : [Dossivil](www.linkedin.com/in/rivoire-dossivil-896427320)
+- **Email** : [Dossivil](dossivil@gmail.com)
 - **GitHub** : [DOSSIVIL](https://github.com/DOSSIVIL)
 
 ---
