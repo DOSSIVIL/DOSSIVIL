@@ -72,7 +72,7 @@ J’aime explorer de nouvelles technologies, relever des défis complexes et tra
 ---
 
 ## 📫 Me contacter  
-- 💼 **LinkedIn** : [Dossivil](https://www.linkedin.com/in/rivoire-dossivil-896427320)  
+- 💼 **LinkedIn** : [Dossivil](www.linkedin.com/in/rivoire-vianey-dossivil-896427320)  
 - 📧 **Email** : dossivil@gmail.com  
 - 🖥️ **GitHub** : [DOSSIVIL](https://github.com/DOSSIVIL)  
 
